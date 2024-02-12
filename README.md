@@ -1,1 +1,1 @@
-Ingyen net a kávézónkban!(Lucky Kávézó)
+Ingyen net a kávézónkban!(Lucky Kávézóban)
