@@ -1,1 +1,1 @@
-Lucky Kávézó
+Ingyen net a kávézónkban!
