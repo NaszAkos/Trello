@@ -52,3 +52,11 @@ nav a:first-child img{
     margin-bottom: 1rem;
     font-variant: small-caps;
 }
+
+#napiajanlat{
+    position: absolute;
+    width: 52px;
+    top: 10px;
+    right: 20px;
+
+}
